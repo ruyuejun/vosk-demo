@@ -1,0 +1,14 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml:2:1-3:12
+	package
+		INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Desktop/Demo/vosk-android-demo-master/lib/src/main/AndroidManifest.xml

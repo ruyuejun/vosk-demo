@@ -1,0 +1,3 @@
+include ':models'
+include ':lib'
+include ':app'
